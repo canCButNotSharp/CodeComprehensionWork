@@ -1,14 +1,19 @@
 ## Table 1: First Test Run
 
-| Code | Code Snippet     | Task Description | Proposed Facets | Detected Problems |
-|------|------------------|----------------- |-----------------|-------------------|
-|Fr1x1 | <img src="res/Fr1.png" width= "300">|                 |                  |
-|Fr1x2 | See code snippet Fr1x1|                 |                  |
-|Fr1x3 |See code snippet Fr1x1                 |                 |                  |
-|Fr2x1 |
-|Fr2x2 |See code snippet Fr2x1  
-|Fr2x3 |See code snippet Fr2x1  
-
+| Code | Code Snippet                       | Task Description | Proposed Facets                 | Detected Problems                     | Improvements      |
+|------|------------------------------------|----------------- |---------------------------------|---------------------------------------|-------------------|
+|Fr1x1 |<img src="res/Fr1.png" width= "300">|Loop & Index Understanding|Analytical, Abstraction |Only reliably tests analytical thinking|Focus solely on the cognitive facet of analytical thinking|
+|Fr1x2 |See code snippet Fr1x1|Edge Case Handling|Abstraction|Requires language-specific knowledge; primarily tests analytical thinking|Delete task|
+|Fr1x3 |See code snippet Fr1x1|Flowchart Comparison|Analytical, Abstraction|Did not require either abstract thinking/analytical thinking; made rule-based thinking easy |Provide several flowcharts that can reflect different aspects|
+|Fr2x1 |<img src="res/Fr2.png" width= "300">|Detect Output|Analytical, Abstraction|Only reliably tests analytical thinking|Focus solely on the  cognitive facet of analytical thinking|
+|Fr2x2 |See code snippet Fr2x1|Assigning Inputs to Outputs|Analytical, Abstraction|Presentation format and task are not very intuitive and are too complex|Delete task|
+|Fr2x3 |See code snippet Fr2x1|Detecting Correct Statements on Behavior|Analytical, Abstraction|Ambiguous evaluation scheme (binary, even though multiple answers may be correct); the focus is mainly on the ability to think abstractly|Focus solely on the cognitive aspect of abstract thinking; Rating system expanded
+|Fr3x1 |<img src="res/Fr3.png" width= "300">|Method Naming|Analytical, Abstraction|Code too complex; None of the intended aspects are reliably tested due to poor results, though there is a tendency towards abstract thinking|Simplify the code; focus on abstraction|
+|Fr3x2 |See code snippet Fr3x1|Error Detection|Analytical, Abstraction, Critical|only reliably assesses analytical and critical thinking|Focus on only one cognitive facet
+|Fr4x1 |<img src="res/Fr4.png" width= "300">|Code Snippet Comparison|Analytical, Abstraction, Critical|Ambiguous marking scheme (binary, even though multiple answers may be correct); the distinctiveness of the facets is not guaranteed due to additional cognitive demands|Rating system expanded; Focus on critical thinking|
+|Fr5x1 |<img src="res/Fr5.png" width= "300">|Functionality Check|Analytical, Abstraction, Critical|Code functionality already tested in Fr4x1|Delete task|
+|Fr5x2 |See code snippet Fr5x1|Code Evaluation|Critical|Students have already linked Fr5x2 and Fr5x3 in their answers|Combine Fr5x2 and Fr5x3 into one task|
+|Fr5x3 |See code snippet Fr5x1|Code Improvement|Critical|-|Adapt phrasing of the task so that it includes Fr5x2|
 
 ## Table 2: Second Test Run
 
