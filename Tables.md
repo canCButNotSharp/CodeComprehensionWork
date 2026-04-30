@@ -2,7 +2,7 @@
 
 | Code | Code Snippet     | Task Description | Proposed Facets | Detected Problems |
 |------|------------------|----------------- |-----------------|-------------------|
-|Fr1x1 | <img src="CodeComprehensionWork/res/Fr1.png">         |                 |                  |
+|Fr1x1 | <img src="res/Fr1.png" width= "300">         |                 |                  |
 |      |                  |                 |                  |
 |      |                  |                 |                  |
 
