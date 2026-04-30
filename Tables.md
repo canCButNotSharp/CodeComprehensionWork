@@ -19,11 +19,11 @@
 
 | Code | Task Description | Code Snippet | Tested Facet |
 |------|------------------|--------------|--------------|
-|Q1x1 (former Fr1x1)|Loop & Index Understanding||Analytical|
-|Q1x2 (former Fr1x3)|Flowchart Comparison||Depends on Flowcharts|
-|Q2x1 (former Fr2x1)|Detect Output||Analytical|
-|Q2x2 (former Fr2x3)|Detecting Correct Statements||Abstraction|
-|Q3x1 (former Fr3x2)|Error Detection||Abstraction|
-|Q4x1 (former Fr3x1)|Method Naming||Critical|
-|Q4x2 (former FR4x1)|Code Snippet Comparison||Ctritical|
-|Q5x1 (former Fr5x3)|Code Improvement||Critical|
+|Q1x1 (former Fr1x1)|Loop & Index Understanding|<img src="res/Q1.png" width= "300">|Analytical|
+|Q1x2 (former Fr1x3)|Flowchart Comparison|See code snippet Q1x1|Depends on Flowcharts|
+|Q2x1 (former Fr2x1)|Detect Output|<img src="res/Q2.png" width= "300">|Analytical|
+|Q2x2 (former Fr2x3)|Detecting Correct Statements|See code snippet Q2x1|Abstraction|
+|Q3x1 (former Fr3x2)|Error Detection|<img src="res/Q3.png" width= "300">|Abstraction|
+|Q4x1 (former Fr3x1)|Method Naming|<img src="res/Q4.png" width= "300">|Critical|
+|Q4x2 (former FR4x1)|Code Snippet Comparison|<img src="res/Q4x2.png" width= "300">|Critical|
+|Q5x1 (former Fr5x3)|Code Improvement|<img src="res/Q5.png" width= "300">|Critical|
