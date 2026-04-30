@@ -17,8 +17,13 @@
 
 ## Table 2: Second Test Run
 
-| Code | Task Description | Tested Facet | Improvements |
+| Code | Task Description | Code Snippet | Tested Facet |
 |------|------------------|--------------|--------------|
-|      |                  |              |              |
-|      |                  |              |              |
-|      |                  |              |              |
+|Q1x1 (former Fr1x1)|Loop & Index Understanding||Analytical|
+|Q1x2 (former Fr1x3)|Flowchart Comparison||Depends on Flowcharts|
+|Q2x1 (former Fr2x1)|Detect Output||Analytical|
+|Q2x2 (former Fr2x3)|Detecting Correct Statements||Abstraction|
+|Q3x1 (former Fr3x2)|Error Detection||Abstraction|
+|Q4x1 (former Fr3x1)|Method Naming||Critical|
+|Q4x2 (former FR4x1)|Code Snippet Comparison||Ctritical|
+|Q5x1 (former Fr5x3)|Code Improvement||Critical|
