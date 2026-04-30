@@ -1,8 +1,8 @@
 ## Table 1: First Test Run
 
-| Code | Task Description | Proposed Facets | Detected Problems |
-|------|------------------|-----------------|------------------|
-|      |                  |                 |                  |
+| Code | Code Snippet     | Task Description | Proposed Facets | Detected Problems |
+|------|------------------|----------------- |-----------------|-------------------|
+|Fr1x1 |                  |                 |                  |
 |      |                  |                 |                  |
 |      |                  |                 |                  |
 
