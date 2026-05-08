@@ -17,13 +17,13 @@
 
 ## Table 2: Second Test Run
 
-| Code | Task Description | Code Snippet | Tested Facet |
-|------|------------------|--------------|--------------|
-|Q1x1 (former Fr1x1)|Loop & Index Understanding|<img src="res/Q1.png" width= "300">|Analytical|
-|Q1x2 (former Fr1x3)|Flowchart Comparison|See code snippet Q1x1|Depends on Flowcharts|
-|Q2x1 (former Fr2x1)|Detect Output|<img src="res/Q2.png" width= "300">|Analytical|
-|Q2x2 (former Fr2x3)|Detecting Correct Statements|See code snippet Q2x1|Abstraction|
-|Q3x1 (former Fr3x2)|Error Detection|<img src="res/Q3.png" width= "300">|Abstraction|
-|Q4x1 (former Fr3x1)|Method Naming|<img src="res/Q4.png" width= "300">|Critical|
-|Q4x2 (former FR4x1)|Code Snippet Comparison|<img src="res/Q4x2.png" width= "300">|Critical|
-|Q5x1 (former Fr5x3)|Code Improvement|<img src="res/Q5.png" width= "300">|Critical|
+| Code | Task Description | Code Snippet | Tested Facet | Explanation |
+|------|------------------|--------------|--------------|-------------|
+|Q1x1 (former Fr1x1)|Loop & Index Understanding|<img src="res/Q1.png" width= "300">|Analytical|Tests analytical thinking by requiring students to trace the code step by step, analyze loops and conditions, and distinguish subtle differences in the answer choices.|
+|Q1x2 (former Fr1x3)|Flowchart Comparison|See code snippet Q1x1|Depends on Flowcharts and their errors|-|
+|Q2x1 (former Fr2x1)|Detect Output|<img src="res/Q2.png" width= "300">|Analytical|Tests analytical thinking by requiring students to mentally trace the program flow, follow loop and condition behavior step by step, and recognize how the output string is constructed.|
+|Q2x2 (former Fr2x3)|Detecting Correct Statements|See code snippet Q2x1|Abstraction|Students must move beyond tracing single outputs and instead understand the general behavior and structure of the program. They need to integrate loops, conditions, and index handling into an overall understanding of how the function operates for different inputs.|
+|Q3x1 (former Fr3x2)|Error Detection|<img src="res/Q3.png" width= "300">|Critical|Students must not only trace how the code works, but also evaluate whether it behaves correctly for different inputs. They need to compare multiple test cases, identify edge cases that reveal logical flaws, and judge whether the algorithm achieves its intended purpose or fails under certain conditions.|
+|Q4x1 (former Fr3x1)|Method Naming|<img src="res/Q4.png" width= "300">|Abstraction|Students must identify the overall purpose of the code and translate its behavior into a meaningful conceptual description. Instead of focusing only on individual lines, they must integrate the conditions and data processing into an understanding of the algorithm’s function and express it through an appropriate method name.|
+|Q4x2 (former FR4x1)|Code Snippet Comparison|<img src="res/Q4x2.png" width= "300">|Critical|Students must evaluate each code snippet against a formal specification and judge whether it correctly implements the required behavior. They need to detect correctness (does it preserve non-negative values and replace only negatives), and distinguish subtle logical differences between similar implementations rather than just understanding the code flow.|
+|Q5x1 (former Fr5x3)|Code Improvement|<img src="res/Q5.png" width= "300">|Critical|Students must evaluate the code beyond its output, focusing on correctness, efficiency, and readability. They need to identify logical errors (incorrect max calculation), unnecessary computations, and poor design choices, and then justify improvements such as simplifying the structure and removing redundant operations.|
