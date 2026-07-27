@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21490313.svg)](https://doi.org/10.5281/zenodo.21490313)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21621824.svg)](https://doi.org/10.5281/zenodo.21621824)
 
 This repository is designed as starting point for a community effort to develop a test instrument to measure code comprehension. It currently contains all tasks and according data that we collected for our submission to the vision track of ESEM 2026:
 
